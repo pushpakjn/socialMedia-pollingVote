@@ -5,7 +5,7 @@
 1. **Clone the application**
 
 	```bash
-	git clone 
+	git clone https://github.com/pushpakjn/socialMedia-pollingVote.git
 	cd polling-app-server
 	```
 
